@@ -1,5 +1,6 @@
 # Spydroid-ipcamera
 
+#安卓手机 内置rtsp服务器 输出直播流
 * Spydroid is a little app. that *streams the camera and microphone of your phone to your browser or to VLC !*
 
 * It is *a fun app for pulling off pranks*: you can remotly trigger funny sounds on your phone or toggle its flash.
